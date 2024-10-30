@@ -107,7 +107,3 @@ The `robots` predicate determines the final `Position` of a robot after executin
 - **Input**: Initial position and a command.
 - **Output**: The robot’s position after the command is executed.
 - **Usage**: Relevant for simulations, robotics programming, and command processing.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
